@@ -20,7 +20,7 @@ public class Fange_Krukke_Sandsynlighed {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // TODO code application logic here          
 
         Krukke k1 = new Krukke(0, 1); // 0 sorte, en hvid
         Krukke k2 = new Krukke(50, 49);
